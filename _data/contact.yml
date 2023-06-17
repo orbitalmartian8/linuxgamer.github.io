@@ -2,6 +2,7 @@
 
 - type: github
   icon: "fab fa-github"
+  link: "https://github.com/LinuxGamer"
   
 - type: twitter
   icon: "fab fa-twitter"
