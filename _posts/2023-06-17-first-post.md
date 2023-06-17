@@ -2,8 +2,8 @@
 title: Welcome to the New Site
 author: cotes
 date: 2023-06-17 21:35:00 +0800
-categories: [Blogging, Welcome]
-tags: [writing]
+categories: [Intro, Welcome]
+tags: [welcome]
 render_with_liquid: false
 ---
 
