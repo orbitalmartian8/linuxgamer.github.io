@@ -1,8 +1,7 @@
 #  The contact options.
 
 - type: github
-  icon: "fab fa-github"
-  link: "https://github.com/LinuxGamer"
+  icon: "fab fa-github
   
 - type: twitter
   icon: "fab fa-twitter"
