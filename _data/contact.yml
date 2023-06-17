@@ -1,7 +1,7 @@
 #  The contact options.
 
 - type: github
-  icon: "fab fa-github
+  icon: "fab fa-github"
   
 - type: twitter
   icon: "fab fa-twitter"
@@ -16,7 +16,7 @@
 # Uncomment and complete the url below to enable more contact options
 #
 - type: mastodon
-  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+  icon: "fab fa-mastodon"   # icons powered by <https://fontawesome.com/>
 #  url:  'https://linuxrocks.online/@linuxgamer'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
 # - type: linkedin
