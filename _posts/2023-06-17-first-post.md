@@ -7,4 +7,4 @@ tags: [welcome]
 render_with_liquid: false
 ---
 
-This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
+Hey folks, I decided that I wanted to focus more on blog posts and stuff like that on my site, so I am in the process of migrating my site to a really cool Jekyll theme called Chirpy.
