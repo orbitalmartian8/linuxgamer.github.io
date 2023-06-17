@@ -1,6 +1,6 @@
 ---
 title: Welcome to the New Site
-author: cotes
+author: cj
 date: 2023-06-17 21:35:00 +0800
 categories: [Intro, Welcome]
 tags: [welcome]
