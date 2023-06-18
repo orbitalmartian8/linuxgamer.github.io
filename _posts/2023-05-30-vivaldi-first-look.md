@@ -1,6 +1,6 @@
 title: Vivaldi First Look
 author: cj
-date: 2023-005-30 21:55:00 +0000
+date: 2023-05-30 21:55:00 +0000
 categories: [Tech, Review]
 tags: [browsers, review, vivaldi]
 render_with_liquid: false
