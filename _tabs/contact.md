@@ -1,7 +1,7 @@
 ---
-# the default layout is 'page'
-icon: fas fa-envelope
-order: 5
+layout: categories
+icon: fas fa-stream
+order: 1
 ---
 
 [Mastodon](https://linuxrocks.online/@LinuxGamer)
