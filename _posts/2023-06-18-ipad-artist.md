@@ -1,7 +1,7 @@
 ---
 title: Using An iPad As An Artist
 author: cj
-date: 2023-06-18 22:52:00 +0000
+date: 2023-06-18 22:52:00 +0800
 categories: [Art]
 tags: [ipad, art, procreate]
 render_with_liquid: false
