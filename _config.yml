@@ -98,7 +98,7 @@ comments:
   utterances:
     repo: LinuxGamer/linuxgamer.github.io # <gh-username>/<repo>
     issue_term: pathname # < url | pathname | title | ...>
-    theme: preferred-color-scheme
+    theme: github-dark-orange
   # Giscus options › https://giscus.app
   giscus:
     repo: LinuxGamer/linuxgamer.github.io # <gh-username>/<repo>
