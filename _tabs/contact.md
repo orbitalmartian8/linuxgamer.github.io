@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: contact
 icon: fas fa-stream
 order: 1
 ---
