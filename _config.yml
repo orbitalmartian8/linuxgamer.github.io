@@ -41,9 +41,9 @@ social:
   email: linuxgamer@duck.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://linuxrocks.online/@LinuxGamer
     - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
-    - https://linuxrocks.online/@LinuxGamer # change to your twitter homepage
     # Uncomment below to add more social link
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
