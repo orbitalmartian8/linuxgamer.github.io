@@ -5,7 +5,6 @@ date: 2023-05-30 21:55:00 +0000
 categories: [Tech, Review]
 tags: [browsers, review, vivaldi]
 render_with_liquid: false
-pin: true
 comments: giscus
 ---
 
