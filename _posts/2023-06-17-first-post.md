@@ -6,7 +6,7 @@ categories: [Intro, Welcome]
 tags: [welcome]
 render_with_liquid: false
 pin: true
-comments: true
+comments: giscus
 ---
 
 Hey folks, I decided that I wanted to focus more on blog posts and stuff like that on my site, so I am in the process of migrating my site to a really cool Jekyll theme called Chirpy. The migration will take time and the site may go down at many times throughout the time, and at the end I'll put another post up saying that the migration is complete. But before I go, I'd like to explain my reasons behind the migration and a little bit about the Static Site Generator I've chosen to use.
